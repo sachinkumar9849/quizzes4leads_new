@@ -1,0 +1,123 @@
+@media (max-width: 991px) {
+    .thankyou_title.pb-4 {
+        margin-top: 33px;
+    }
+    header.header {
+       
+        background: #F2F2F2;
+        padding: 3px;
+    }
+    #product_slider .slider-banner-image img {
+       
+        width: 100%;
+    }
+    #product_slider .slider-banner-image img {
+        height: 303px;
+    }
+    #product_slider .banner-slider .slider.slider-nav {
+       
+        height: 303px;
+    }
+
+    
+    
+ 
+    
+    
+}
+@media (max-width: 767px) {
+    .section_title h1 {
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 36px;
+    }
+    section.padding.gray_bg.opportunities .text_block {
+        width: 100%;
+    }
+    .icon_block img {
+        min-width: 79px;
+        margin-bottom: 20px;
+        max-width: 79px;
+    }
+    .border_line::before {
+        display: none;
+    }
+    section.banner_home {
+
+        height: 367px;
+    }
+    .banner_content h1 {
+        
+        font-size: 30px;
+    }
+    .testimonial_img img {
+        width: 75px;
+    }
+    button.slick-next.slick-arrow,button.slick-prev.slick-arrow {
+     display: none;
+    }
+    .btn_block a {
+
+        padding: 10px 14px;
+       
+    }
+    .padding {
+        padding: 64px 0;
+    }
+    
+    button.slick-next.pull-right.slick-arrow,button.slick-prev.pull-left.slick-arrow {
+        display: none !important;
+    }
+    .icon_list {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 26px;
+    }
+    ul.footer_list li {
+        width: 50%;
+        margin-bottom: 7px;
+    }
+    ul.footer_list {
+        flex-wrap: wrap;
+        margin-top: 16px;
+    }
+    .thankyou-icon img {
+        width: 41px;
+    }
+    .thankyou-text h2 {
+        font-size: 16px;
+    }
+    .thankyou_icon.d-flex.mt-4 {
+        flex-wrap: wrap;
+    }
+    
+    table.table {
+        table-layout: fixed;
+        min-width: 776px;
+        overflow-x: scroll;
+    }
+    .table_scroll {
+        overflow-x: scroll;
+    }
+    .opportunity_item img {
+        width: 87px;
+        min-height: 73px;
+        max-height: 83px;
+        object-fit: contain;
+    }
+    .opportunity_item p {
+        margin-top: 12px;
+        font-size: 16px;
+        font-weight: 500;
+    }   
+    section.opportunlty .thankyou_title.pt-5.pb-4 {
+        padding-top: 0 !important;
+    } 
+    .thankyou_title.pb-4 {
+        margin-top: 8px;
+    }
+}
+
+
+   
+  
