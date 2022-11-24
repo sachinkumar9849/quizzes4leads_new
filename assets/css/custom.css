@@ -414,3 +414,6 @@ footer {
   color: white;
   padding-top: 20px;
 }
+.icon_block img {
+  width: 55px;
+}
